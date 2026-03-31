@@ -87,15 +87,7 @@
   </tr>
 </table>
 
----
 
-### 📈 Activity Matrix (Dynamic Graph)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisalmissaka&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
-
----
 
 ### 📊 System Status (GitHub Stats)
 
