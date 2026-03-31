@@ -102,16 +102,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalmissaka&theme=radical&hide_border=true" width="100%" />
 </div>
 
----
-
-<div align="center">
-
-### 🤝 Let's Architect the Future!
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nisal-wishwaka-21b506346/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:wishwakanisal@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=nisalmissaka&label=NETWORK+REACH&color=0e75b6&style=flat-square" alt="Views" />
-
-</div>
