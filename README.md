@@ -96,9 +96,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisalmissaka&layout=compact&theme=radical&hide_border=true" height="180px" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisalmissaka&theme=radical&hide_border=true" width="100%" />
-</div>
 
