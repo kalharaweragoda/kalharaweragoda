@@ -23,8 +23,6 @@
 
 <div align="center">
 
-### 🏛️ Aspiring Software Architect | Java Full-Stack Specialist
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
 </p>
