@@ -75,12 +75,12 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>🛍️ Nexus E-Comm</h4>
+      <h4>🛍️ -------</h4>
       <p>Full-stack marketplace with secure payment gateways and user-centric UI.</p>
       <code>Spring Boot</code> <code>React</code> <code>Docker</code>
     </td>
     <td width="50%">
-      <h4>🏥 EMS Core</h4>
+      <h4>🏥 ----------</h4>
       <p>Clean Architecture based HR system optimizing organizational workflow.</p>
       <code>MVC</code> <code>Java</code> <code>PostgreSQL</code>
     </td>
