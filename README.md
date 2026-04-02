@@ -23,7 +23,6 @@
 
 <div align="center">
 
-# 🚀 Hello World, I'm Kalhara Weragoda
 ### 🏛️ Aspiring Software Architect | Java Full-Stack Specialist
 
 <p align="center">
