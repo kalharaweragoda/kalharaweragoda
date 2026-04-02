@@ -1,5 +1,6 @@
 <h1 align="center">Hello 😊, I'm Kalhara Weragoda</h1>
 <h3 align="center">Full-stack software engineer from Sri Lanka</h3>
+<h3 align="center">### 🏛️ Aspiring Software Architect </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalharaweragoda&label=Profile%20views&color=0e75b6&style=flat" alt="kalharaweragoda" /> </p>
 
