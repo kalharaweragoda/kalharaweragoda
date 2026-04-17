@@ -90,8 +90,8 @@
 ### 📊 System Status (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisalmissaka&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisalmissaka&layout=compact&theme=radical&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=radical&hide_border=true" height="180px" />
 </div>
 
 
