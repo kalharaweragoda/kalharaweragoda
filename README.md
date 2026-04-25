@@ -20,8 +20,8 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/your-id" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/wajkc" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kalharaweragoda" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -31,9 +31,9 @@
 
 ### 🛰️ Mission Control (About Me)
 
-- 🎓 **Academic Path:** Software Engineering student crafting high-performance backend systems.
+- 🎓 **Academic Path:** Software Engineering student at iCET, crafting high-performance systems.
 - ⚡ **Core Focus:** Deep diving into **Cloud-Native Java** and **Microservices Architecture**.
-- 🛠️ **Current Sprint:** Enhancing UI/UX for enterprise-level applications with **Angular** and **Spring Boot**.
+- 🛠️ **Current Sprint:** Optimizing Full-Stack applications using **Spring Boot** and **Angular**.
 - 🔭 **Vision:** Scaling distributed systems to solve real-world problems.
 
 ---
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-| 🛒 Clothify Store | 🎫 Final Project |
+| 🛒 Clothify Store | 🎫 TicketX Engine |
 | :--- | :--- |
 | High-end JavaFX management system with real-time inventory tracking and analytics. | Robust ticketing backend handling concurrent transactions and seat management. |
 | `Java` `JavaFX` `MySQL` | `Spring Boot` `Hibernate` `JWT` |
@@ -65,7 +65,7 @@
 | 👔 Employee Management | 🏨 Hotel Booking System |
 | :--- | :--- |
 | Full-stack HR solution with live filtering and automated record management. | Modern Angular-based frontend for seamless room reservations. |
-| `Spring Boot` `React/Angular` `MySQL` | `Angular` `TypeScript` `REST API` |
+| `Spring Boot` `Angular` `MySQL` | `Angular` `TypeScript` `REST API` |
 
 </div>
 
@@ -88,5 +88,3 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
   <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
 </div>
-
-
