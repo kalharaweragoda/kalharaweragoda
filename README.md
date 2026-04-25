@@ -74,17 +74,11 @@
 ### 📊 System Status (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=radical&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180px" alt="Overall Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=radical&hide_border=true" height="180px" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.gif" width="100%">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-</div>
