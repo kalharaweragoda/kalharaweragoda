@@ -57,7 +57,7 @@
 
 <div align="center">
 
-| 🛒 Clothify Store | 🎫 TicketX Engine |
+| 🛒 Clothify Store | 🎫 Final Project |
 | :--- | :--- |
 | High-end JavaFX management system with real-time inventory tracking and analytics. | Robust ticketing backend handling concurrent transactions and seat management. |
 | `Java` `JavaFX` `MySQL` | `Spring Boot` `Hibernate` `JWT` |
