@@ -74,10 +74,14 @@
 ### 📊 System Status (GitHub Stats)
 
 <p align="center">
+  <!-- Overall Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180px" alt="Overall Stats" />
+  
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
