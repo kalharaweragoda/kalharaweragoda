@@ -75,8 +75,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180px" alt="Overall Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=radical&hide_border=true" height="180px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
 </p>
 
 <p align="center">
