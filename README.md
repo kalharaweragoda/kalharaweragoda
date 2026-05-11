@@ -75,35 +75,25 @@
 
 <div align="center">
 
-  <!-- Header Section with Wave Effect -->
+  <!-- Header Section -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kalhara%20Weragoda&fontSize=70" width="100%" />
 
   <br/>
 
-  <!-- Stats & Languages Grid (Fixed Alignment) -->
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195px" alt="GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195px" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_id=1" height="195px" alt="GitHub Stats" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_id=1" height="195px" alt="Top Languages" />
 
-  <br/>
+  <br/><br/>
 
   <!-- GitHub Streak Card -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=tokyonight&hide_border=true&cache_id=1" alt="GitHub Streak" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Contribution Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-  </p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
