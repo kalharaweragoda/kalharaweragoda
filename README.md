@@ -75,33 +75,56 @@
 
 <div align="center">
 
-  <!-- Dynamic Typing Effect or Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kalhara%20Weragoda&fontSize=70" width="100%" />
+  <!-- Header Section -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Kalhara%20Weragoda&fontSize=70&animation=fadeIn" width="100%" />
+
+  <!-- Animated Typing Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Spring+Boot+%26+Angular+Specialist;Passionate+about+AI+%26+Automation" alt="Typing SVG" />
 
   <br/>
 
-  <!-- GitHub Activity & Stats Grid -->
-  <table border="0">
+  <!-- Tech Stack Section -->
+  <h3> 🛠️ Tech Stack </h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+
+  <br/>
+
+  <!-- Stats Grid -->
+  <table border="0" align="center">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" height="185px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="185px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" height="185px" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=tokyonight&hide_border=true&area=true" width="100%" />
 
   <br/>
-  
-  <!-- Streak & Trophy -->
+
+  <!-- Trophies & Streak -->
   <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kalharaweragoda&theme=tokyonight&no-bg=true&no-frame=true&column=4" width="100%" />
+    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  <!-- Visitor Counter -->
+  <p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=kalharaweragoda&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
   </p>
 
 </div>
