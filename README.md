@@ -73,58 +73,44 @@
 
 ### 📊 System Status (GitHub Stats)
 
-<div align="center">
+# Hi there, I'm Kalhara! 👋
 
-  <!-- Header Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Kalhara%20Weragoda&fontSize=70&animation=fadeIn" width="100%" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&left=true&width=435&lines=Full-stack+Developer;Java+%2B+Spring+Boot+Expert;React+%2B+Angular+Enthusiast" alt="Typing SVG" />
+</p>
 
-  <!-- Animated Typing Intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Spring+Boot+%26+Angular+Specialist;Passionate+about+AI+%26+Automation" alt="Typing SVG" />
+---
 
-  <br/>
+### 🛠️ Core Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,angular,tailwind,git,github,postman&perline=10" />
+  </a>
+</p>
 
-  <!-- Tech Stack Section -->
-  <h3> 🛠️ Tech Stack </h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+---
 
-  <br/>
+### 📊 GitHub Contributions & Insights
 
-  <!-- Stats Grid -->
-  <table border="0" align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" height="185px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" height="185px" />
-      </td>
-    </tr>
-  </table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&bg_color=00000000" height="150" />
+</p>
 
-  <br/>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=36BCF7" width="100%" />
+</p>
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=tokyonight&hide_border=true&area=true" width="100%" />
+---
 
-  <br/>
+### 📂 Recent Projects
+- 🏨 **Hotel Room Booking System** - Angular frontend with specialized UI.
+- 🛍️ **Grocery POS System** - Java Swing & MySQL based standalone application.
+- 🎓 **Student Management System** - Full-stack application using Spring Boot & React.
+- 📄 **Legal Document Redaction System** - AI-driven group project.
 
-  <!-- Trophies & Streak -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kalharaweragoda&theme=tokyonight&no-bg=true&no-frame=true&column=4" width="100%" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </p>
+---
 
-  <!-- Visitor Counter -->
-  <p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=kalharaweragoda&color=00b4d8&style=flat-square&label=PROFILE+VIEWS" />
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalharaweragoda&label=Profile+Views&color=36BCF7&style=flat" />
+</p>
