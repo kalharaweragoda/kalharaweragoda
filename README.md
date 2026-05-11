@@ -75,64 +75,35 @@
 
 <div align="center">
 
-
-
-  <!-- Dynamic Typing Effect or Header -->
-
+  <!-- Header Section with Wave Effect -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kalhara%20Weragoda&fontSize=70" width="100%" />
 
-
-
   <br/>
 
-
-
-  <!-- GitHub Activity & Stats Grid -->
-
-  <table border="0">
-
+  <!-- Stats & Languages Grid (Fixed Alignment) -->
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
-
-      <td>
-
-        <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" height="185px" />
-
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195px" alt="GitHub Stats" />
       </td>
-
-      <td>
-
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="185px" />
-
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195px" alt="Top Languages" />
       </td>
-
     </tr>
-
   </table>
 
-
-
   <br/>
 
-
-
-  <!-- Contribution Graph -->
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-
-
-  <br/>
-
-  
-
-  <!-- Streak & Trophy -->
-
+  <!-- GitHub Streak Card -->
   <p align="center">
-
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
   </p>
 
+  <br/>
 
+  <!-- Contribution Activity Graph -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  </p>
 
 </div>
