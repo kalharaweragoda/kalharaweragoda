@@ -73,44 +73,22 @@
 
 ### 📊 System Status (GitHub Stats)
 
-# Hi there, I'm Kalhara! 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&left=true&width=435&lines=Full-stack+Developer;Java+%2B+Spring+Boot+Expert;React+%2B+Angular+Enthusiast" alt="Typing SVG" />
-</p>
+  <!-- Overall Stats Card (Commit Focus) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="195px" alt="Detailed Stats" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalharaweragoda&theme=radical&hide_border=true" height="195px" alt="GitHub Streak" />
 
----
+  <br/>
 
-### 🛠️ Core Technologies
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,react,angular,tailwind,git,github,postman&perline=10" />
-  </a>
-</p>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=radical&hide_border=true&langs_count=8" width="400px" alt="Top Languages" />
 
----
+  <br/>
 
-### 📊 GitHub Contributions & Insights
+  <!-- Contribution Graph (Visualizer) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=radical&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalharaweragoda&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaweragoda&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&bg_color=00000000" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaweragoda&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=36BCF7" width="100%" />
-</p>
-
----
-
-### 📂 Recent Projects
-- 🏨 **Hotel Room Booking System** - Angular frontend with specialized UI.
-- 🛍️ **Grocery POS System** - Java Swing & MySQL based standalone application.
-- 🎓 **Student Management System** - Full-stack application using Spring Boot & React.
-- 📄 **Legal Document Redaction System** - AI-driven group project.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalharaweragoda&label=Profile+Views&color=36BCF7&style=flat" />
-</p>
+</div>
